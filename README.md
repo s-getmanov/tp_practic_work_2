@@ -19,7 +19,7 @@
 ### Задание 4.
 Реализуйте программу «Заметки». В начале программы должен выводиться список доступных заметок –список текстовых файлов в директории программы. Пользователь может выбрать заметку и считать с неё информацию или создать новую заметку.
 ####  Файл к заданию 4: 
-[task3_utf8.cpp](https://github.com/s-getmanov/tp_practic_work_2/blob/main/task3_utf8.cpp) - в кодировке UTF-8 
+[task3_utf8.cpp](https://github.com/s-getmanov/tp_practic_work_2/blob/main/task3_utf8.cpp) - в кодировке UTF-8 <br>
 [task3_w1251.cpp](https://github.com/s-getmanov/tp_practic_work_2/blob/main/task3_w1251.cpp) - в кодировке windows 
 
 ### Задание 5.
