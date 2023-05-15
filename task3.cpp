@@ -4,7 +4,6 @@
 //Также вывести в консоль значение переменной, используя указатель на неё.
 
 #include <iostream>
-#include <fstream>
 
 using namespace std;
 
